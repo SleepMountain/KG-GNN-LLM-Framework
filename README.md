@@ -19,7 +19,6 @@
 - [Contributors](#Contributors)
   - [How to Participate](#How to Participate)
 - [Versioning](#Versioning)
-- [Author](#Author)
 
 ### Guide
 
@@ -106,8 +105,4 @@ qq:3224039710
  *You can also view all the developers who contributed to this project in the contributors' list.*
 
 
-
-### 版权说明
-
-The project is licensed under the MIT License. For details, please refer to [LICENSE.txt](https://github.com/shaojintian/Best_README_template/blob/master/LICENSE.txt).
 
