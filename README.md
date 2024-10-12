@@ -12,13 +12,13 @@
 
 ## Contents
 
-- [Guide](#Guide)
-  - [Installation](#Installation)
-- [File Directory Description](#File Directory Description)
-- [Architecture of Development](#Architecture of Development)
-- [Contributors](#Contributors)
-  - [How to Participate](#How to Participate)
-- [Versioning](#Versioning)
+- [Guide]
+  - [Installation]
+- [File Directory Description]
+- [Architecture of Development]
+- [Contributors]
+  - [How to Participate]
+- [Versioning]
 
 ### Guide
 
