@@ -1,0 +1,2894 @@
+﻿[
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "大学计算机基础与应用"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:0"
+    }
+  },
+  {
+    "n": {
+      "identity": 1,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "劳动关系实务操作"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "高级大数据系统"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:2"
+    }
+  },
+  {
+    "n": {
+      "identity": 3,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "艺术与审美"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:3"
+    }
+  },
+  {
+    "n": {
+      "identity": 4,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "企业战略管理"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4"
+    }
+  },
+  {
+    "n": {
+      "identity": 5,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "计算机辅助设计"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:5"
+    }
+  },
+  {
+    "n": {
+      "identity": 6,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "电子信息科学与技术导引"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:6"
+    }
+  },
+  {
+    "n": {
+      "identity": 7,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "工程图学"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:7"
+    }
+  },
+  {
+    "n": {
+      "identity": 8,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "美术鉴赏鉴赏"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:8"
+    }
+  },
+  {
+    "n": {
+      "identity": 9,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "工程职业伦理"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:9"
+    }
+  },
+  {
+    "n": {
+      "identity": 10,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "PLC应用技术"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:10"
+    }
+  },
+  {
+    "n": {
+      "identity": 11,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "测试系统集成技术"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:11"
+    }
+  },
+  {
+    "n": {
+      "identity": 12,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "运动与健康"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 13,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "理工学术英语"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:13"
+    }
+  },
+  {
+    "n": {
+      "identity": 14,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "巴蜀文化"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:14"
+    }
+  },
+  {
+    "n": {
+      "identity": 15,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "工程职业伦理1"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:15"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "中国近现代史纲要纲要"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:16"
+    }
+  },
+  {
+    "n": {
+      "identity": 17,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "大数据机器学习"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:17"
+    }
+  },
+  {
+    "n": {
+      "identity": 18,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "工程制图实践"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:18"
+    }
+  },
+  {
+    "n": {
+      "identity": 19,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "经济地理与企业兴衰"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:19"
+    }
+  },
+  {
+    "n": {
+      "identity": 20,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "影视中的智能建筑赏析"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:20"
+    }
+  },
+  {
+    "n": {
+      "identity": 21,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "中国近现代史纲要"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:21"
+    }
+  },
+  {
+    "n": {
+      "identity": 22,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "创新创新创业基础"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:22"
+    }
+  },
+  {
+    "n": {
+      "identity": 23,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "室内花草栽培技术与装饰布景"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:23"
+    }
+  },
+  {
+    "n": {
+      "identity": 24,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "创业启程"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:24"
+    }
+  },
+  {
+    "n": {
+      "identity": 25,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "文物精品与文化中国"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:25"
+    }
+  },
+  {
+    "n": {
+      "identity": 26,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "创客培养：趣味力学实验与制作"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:26"
+    }
+  },
+  {
+    "n": {
+      "identity": 27,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "计算机网络"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:27"
+    }
+  },
+  {
+    "n": {
+      "identity": 28,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "数学建模"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:28"
+    }
+  },
+  {
+    "n": {
+      "identity": 29,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "Java程序设计"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:29"
+    }
+  },
+  {
+    "n": {
+      "identity": 30,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "高级语言程序设计"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:30"
+    }
+  },
+  {
+    "n": {
+      "identity": 31,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "知识产权法与创新保护"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:31"
+    }
+  },
+  {
+    "n": {
+      "identity": 32,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "信息素养-互联网+时代的学习与生活"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:32"
+    }
+  },
+  {
+    "n": {
+      "identity": 33,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "足球运动与科学"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:33"
+    }
+  },
+  {
+    "n": {
+      "identity": 34,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "毛泽东思想和中国特色社会主义理论体系概论"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:34"
+    }
+  },
+  {
+    "n": {
+      "identity": 35,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "汇编语言程序设计"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:35"
+    }
+  },
+  {
+    "n": {
+      "identity": 36,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "工程热力学（下）"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:36"
+    }
+  },
+  {
+    "n": {
+      "identity": 37,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "移动应用开发基础(Andrid)"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:37"
+    }
+  },
+  {
+    "n": {
+      "identity": 38,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "创新创业基础"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:38"
+    }
+  },
+  {
+    "n": {
+      "identity": 39,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "工程热力学（上）"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:39"
+    }
+  },
+  {
+    "n": {
+      "identity": 40,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "计算思维导论"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:40"
+    }
+  },
+  {
+    "n": {
+      "identity": 41,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "电子政务"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:41"
+    }
+  },
+  {
+    "n": {
+      "identity": 42,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "项目管理"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:42"
+    }
+  },
+  {
+    "n": {
+      "identity": 43,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "日本文化与优秀影视作品赏析"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:43"
+    }
+  },
+  {
+    "n": {
+      "identity": 44,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "汉语文字词汇"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:44"
+    }
+  },
+  {
+    "n": {
+      "identity": 45,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "逻辑思维与写作"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:45"
+    }
+  },
+  {
+    "n": {
+      "identity": 46,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "信息技术与教育应用"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:46"
+    }
+  },
+  {
+    "n": {
+      "identity": 47,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "茶艺"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:47"
+    }
+  },
+  {
+    "n": {
+      "identity": 48,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "操作系统"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:48"
+    }
+  },
+  {
+    "n": {
+      "identity": 49,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "中国电影经典影片鉴赏"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:49"
+    }
+  },
+  {
+    "n": {
+      "identity": 50,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "托福特色课程（特色）"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:50"
+    }
+  },
+  {
+    "n": {
+      "identity": 51,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "光电仪器设计"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:51"
+    }
+  },
+  {
+    "n": {
+      "identity": 52,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "互联网金融"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:52"
+    }
+  },
+  {
+    "n": {
+      "identity": 53,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "如何写好科研论文"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:53"
+    }
+  },
+  {
+    "n": {
+      "identity": 54,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "数据库系统原理与开发"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:54"
+    }
+  },
+  {
+    "n": {
+      "identity": 55,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "商务礼仪"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:55"
+    }
+  },
+  {
+    "n": {
+      "identity": 56,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "《红楼梦》的空间艺术"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:56"
+    }
+  },
+  {
+    "n": {
+      "identity": 57,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "工程伦理"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:57"
+    }
+  },
+  {
+    "n": {
+      "identity": 58,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "运动与减脂塑形"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:58"
+    }
+  },
+  {
+    "n": {
+      "identity": 59,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "学在南哲：哲学与哲人"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:59"
+    }
+  },
+  {
+    "n": {
+      "identity": 60,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "理工学术英语1"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:60"
+    }
+  },
+  {
+    "n": {
+      "identity": 61,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "Web基础"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:61"
+    }
+  },
+  {
+    "n": {
+      "identity": 62,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "动态测试与分析（下）"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:62"
+    }
+  },
+  {
+    "n": {
+      "identity": 63,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "编译技术"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:63"
+    }
+  },
+  {
+    "n": {
+      "identity": 64,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "生活英语读写"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:64"
+    }
+  },
+  {
+    "n": {
+      "identity": 65,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "工程职业伦理实践"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:65"
+    }
+  },
+  {
+    "n": {
+      "identity": 66,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "数据库原理与应用"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:66"
+    }
+  },
+  {
+    "n": {
+      "identity": 67,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "中国民俗文化赏析"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:67"
+    }
+  },
+  {
+    "n": {
+      "identity": 68,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "谈医说药"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:68"
+    }
+  },
+  {
+    "n": {
+      "identity": 69,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "走近中华优秀传统文化"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:69"
+    }
+  },
+  {
+    "n": {
+      "identity": 70,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "女性修与养：女性运动、营养与健康"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:70"
+    }
+  },
+  {
+    "n": {
+      "identity": 71,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "线性代数2"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:71"
+    }
+  },
+  {
+    "n": {
+      "identity": 72,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "计算机基础（C++语言程序设计基础）"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:72"
+    }
+  },
+  {
+    "n": {
+      "identity": 73,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "网络技术与应用"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:73"
+    }
+  },
+  {
+    "n": {
+      "identity": 74,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "中国古代礼义文明（上）"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:74"
+    }
+  },
+  {
+    "n": {
+      "identity": 75,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "高级数据库系统"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:75"
+    }
+  },
+  {
+    "n": {
+      "identity": 76,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "乐商对话"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:76"
+    }
+  },
+  {
+    "n": {
+      "identity": 77,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "普通化学"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:77"
+    }
+  },
+  {
+    "n": {
+      "identity": 78,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "界面设计导论"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:78"
+    }
+  },
+  {
+    "n": {
+      "identity": 79,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "营养与健康"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:79"
+    }
+  },
+  {
+    "n": {
+      "identity": 80,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "妇女健康和权益"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:80"
+    }
+  },
+  {
+    "n": {
+      "identity": 81,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "动态测试与分析（上）"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:81"
+    }
+  },
+  {
+    "n": {
+      "identity": 82,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "国防教育——热点问题"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:82"
+    }
+  },
+  {
+    "n": {
+      "identity": 83,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "高等数学"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:83"
+    }
+  },
+  {
+    "n": {
+      "identity": 84,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "茶叶制造与健康"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:84"
+    }
+  },
+  {
+    "n": {
+      "identity": 85,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "数据挖掘：理论与算法"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:85"
+    }
+  },
+  {
+    "n": {
+      "identity": 86,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "对外汉语"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:86"
+    }
+  },
+  {
+    "n": {
+      "identity": 87,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "教育学导引"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:87"
+    }
+  },
+  {
+    "n": {
+      "identity": 88,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "数字集成电路分析与设计"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:88"
+    }
+  },
+  {
+    "n": {
+      "identity": 89,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "马克思主义基本原理"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:89"
+    }
+  },
+  {
+    "n": {
+      "identity": 90,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "电工技术"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:90"
+    }
+  },
+  {
+    "n": {
+      "identity": 91,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "软件理论基础高级大数据系统"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:91"
+    }
+  },
+  {
+    "n": {
+      "identity": 92,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "数据结构"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:92"
+    }
+  },
+  {
+    "n": {
+      "identity": 93,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "工业生产管理概论"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:93"
+    }
+  },
+  {
+    "n": {
+      "identity": 94,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "汽车理论"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:94"
+    }
+  },
+  {
+    "n": {
+      "identity": 95,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "C++语言程序设计进阶"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:95"
+    }
+  },
+  {
+    "n": {
+      "identity": 96,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "软件理论基础"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:96"
+    }
+  },
+  {
+    "n": {
+      "identity": 97,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "大数据系统基础"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:97"
+    }
+  },
+  {
+    "n": {
+      "identity": 98,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "机械原理"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:98"
+    }
+  },
+  {
+    "n": {
+      "identity": 99,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "庄子哲学导读"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:99"
+    }
+  },
+  {
+    "n": {
+      "identity": 100,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "社会研究方法"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:100"
+    }
+  },
+  {
+    "n": {
+      "identity": 101,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "电路原理"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:101"
+    }
+  },
+  {
+    "n": {
+      "identity": 102,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "中国古代礼义文明（下）"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:102"
+    }
+  },
+  {
+    "n": {
+      "identity": 103,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "运动与关节健康"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:103"
+    }
+  },
+  {
+    "n": {
+      "identity": 104,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "从音乐到影像"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:104"
+    }
+  },
+  {
+    "n": {
+      "identity": 105,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "跨平台脚本与开放平台技术"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:105"
+    }
+  },
+  {
+    "n": {
+      "identity": 106,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "艺术的启示"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:106"
+    }
+  },
+  {
+    "n": {
+      "identity": 107,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "系统化产品设计与开发"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:107"
+    }
+  },
+  {
+    "n": {
+      "identity": 108,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "软件理论基础社会生物学"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:108"
+    }
+  },
+  {
+    "n": {
+      "identity": 109,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "产品开发设计"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:109"
+    }
+  },
+  {
+    "n": {
+      "identity": 110,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "无机化学"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:110"
+    }
+  },
+  {
+    "n": {
+      "identity": 111,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "通用学术英语2"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:111"
+    }
+  },
+  {
+    "n": {
+      "identity": 112,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "计算机操作系统"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:112"
+    }
+  },
+  {
+    "n": {
+      "identity": 113,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "建筑环境学"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:113"
+    }
+  },
+  {
+    "n": {
+      "identity": 114,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "大学生安全与保护"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:114"
+    }
+  },
+  {
+    "n": {
+      "identity": 115,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "科学运动与健康"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:115"
+    }
+  },
+  {
+    "n": {
+      "identity": 116,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "物理仿真模拟"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:116"
+    }
+  },
+  {
+    "n": {
+      "identity": 117,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "金融工程"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:117"
+    }
+  },
+  {
+    "n": {
+      "identity": 118,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "互联网大规模数据分析技术"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:118"
+    }
+  },
+  {
+    "n": {
+      "identity": 119,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "决胜移动互联网：创业者的商业模式课"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:119"
+    }
+  },
+  {
+    "n": {
+      "identity": 120,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "汽车文化与鉴赏"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:120"
+    }
+  },
+  {
+    "n": {
+      "identity": 121,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "艺术欣赏"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:121"
+    }
+  },
+  {
+    "n": {
+      "identity": 122,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "英汉语言对比"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:122"
+    }
+  },
+  {
+    "n": {
+      "identity": 123,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "如柯成为一名终生学习者并从中收益"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:123"
+    }
+  },
+  {
+    "n": {
+      "identity": 124,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "卡通说解数字电子技术"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:124"
+    }
+  },
+  {
+    "n": {
+      "identity": 125,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "办公软件Office实践应用"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:125"
+    }
+  },
+  {
+    "n": {
+      "identity": 4863,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student2"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4863"
+    }
+  },
+  {
+    "n": {
+      "identity": 4864,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student44"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4864"
+    }
+  },
+  {
+    "n": {
+      "identity": 4865,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student25"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4865"
+    }
+  },
+  {
+    "n": {
+      "identity": 4866,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student27"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4866"
+    }
+  },
+  {
+    "n": {
+      "identity": 4867,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student49"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4867"
+    }
+  },
+  {
+    "n": {
+      "identity": 4868,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student3"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4868"
+    }
+  },
+  {
+    "n": {
+      "identity": 4869,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student41"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4869"
+    }
+  },
+  {
+    "n": {
+      "identity": 4870,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student14"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4870"
+    }
+  },
+  {
+    "n": {
+      "identity": 4871,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student11"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4871"
+    }
+  },
+  {
+    "n": {
+      "identity": 4872,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student32"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4872"
+    }
+  },
+  {
+    "n": {
+      "identity": 4873,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student40"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4873"
+    }
+  },
+  {
+    "n": {
+      "identity": 4874,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student34"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4874"
+    }
+  },
+  {
+    "n": {
+      "identity": 4875,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student18"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4875"
+    }
+  },
+  {
+    "n": {
+      "identity": 4876,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student26"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4876"
+    }
+  },
+  {
+    "n": {
+      "identity": 4877,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student4"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4877"
+    }
+  },
+  {
+    "n": {
+      "identity": 4878,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student48"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4878"
+    }
+  },
+  {
+    "n": {
+      "identity": 4879,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student24"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4879"
+    }
+  },
+  {
+    "n": {
+      "identity": 4880,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student20"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4880"
+    }
+  },
+  {
+    "n": {
+      "identity": 4881,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student47"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4881"
+    }
+  },
+  {
+    "n": {
+      "identity": 4882,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student9"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4882"
+    }
+  },
+  {
+    "n": {
+      "identity": 4883,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student15"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4883"
+    }
+  },
+  {
+    "n": {
+      "identity": 4884,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student37"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4884"
+    }
+  },
+  {
+    "n": {
+      "identity": 4885,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student38"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4885"
+    }
+  },
+  {
+    "n": {
+      "identity": 4886,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student10"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4886"
+    }
+  },
+  {
+    "n": {
+      "identity": 4887,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student19"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4887"
+    }
+  },
+  {
+    "n": {
+      "identity": 4888,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student7"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4888"
+    }
+  },
+  {
+    "n": {
+      "identity": 4889,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student22"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4889"
+    }
+  },
+  {
+    "n": {
+      "identity": 4890,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student33"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4890"
+    }
+  },
+  {
+    "n": {
+      "identity": 4891,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student29"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4891"
+    }
+  },
+  {
+    "n": {
+      "identity": 4892,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student28"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4892"
+    }
+  },
+  {
+    "n": {
+      "identity": 4893,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student5"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4893"
+    }
+  },
+  {
+    "n": {
+      "identity": 4894,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student36"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4894"
+    }
+  },
+  {
+    "n": {
+      "identity": 4895,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student1"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4895"
+    }
+  },
+  {
+    "n": {
+      "identity": 4896,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student31"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4896"
+    }
+  },
+  {
+    "n": {
+      "identity": 4897,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student12"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4897"
+    }
+  },
+  {
+    "n": {
+      "identity": 4898,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student50"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4898"
+    }
+  },
+  {
+    "n": {
+      "identity": 4899,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student16"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4899"
+    }
+  },
+  {
+    "n": {
+      "identity": 4900,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student21"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4900"
+    }
+  },
+  {
+    "n": {
+      "identity": 4901,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student8"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4901"
+    }
+  },
+  {
+    "n": {
+      "identity": 4902,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student43"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4902"
+    }
+  },
+  {
+    "n": {
+      "identity": 4903,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student13"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4903"
+    }
+  },
+  {
+    "n": {
+      "identity": 4904,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student17"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4904"
+    }
+  },
+  {
+    "n": {
+      "identity": 4905,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student23"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4905"
+    }
+  },
+  {
+    "n": {
+      "identity": 4906,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student42"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4906"
+    }
+  },
+  {
+    "n": {
+      "identity": 4907,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student45"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4907"
+    }
+  },
+  {
+    "n": {
+      "identity": 4908,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student30"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4908"
+    }
+  },
+  {
+    "n": {
+      "identity": 4909,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student39"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4909"
+    }
+  },
+  {
+    "n": {
+      "identity": 4910,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student6"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4910"
+    }
+  },
+  {
+    "n": {
+      "identity": 4911,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student35"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4911"
+    }
+  },
+  {
+    "n": {
+      "identity": 4912,
+      "labels": [
+        "Student"
+      ],
+      "properties": {
+        "name": "Student46"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4912"
+    }
+  },
+  {
+    "n": {
+      "identity": 4913,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "高等数学A2"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4913"
+    }
+  },
+  {
+    "n": {
+      "identity": 4914,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "管理学"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4914"
+    }
+  },
+  {
+    "n": {
+      "identity": 4915,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "Web安全实践"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4915"
+    }
+  },
+  {
+    "n": {
+      "identity": 4916,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "物理化学"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4916"
+    }
+  },
+  {
+    "n": {
+      "identity": 4917,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "道路工程材料"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4917"
+    }
+  },
+  {
+    "n": {
+      "identity": 4918,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "通用学术英语"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4918"
+    }
+  },
+  {
+    "n": {
+      "identity": 4919,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "内部控制与风险管理"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4919"
+    }
+  },
+  {
+    "n": {
+      "identity": 4920,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "实用绳结技术"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4920"
+    }
+  },
+  {
+    "n": {
+      "identity": 4921,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "电工电子技术"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4921"
+    }
+  },
+  {
+    "n": {
+      "identity": 4922,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "数字集成电路分析与设计3"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4922"
+    }
+  },
+  {
+    "n": {
+      "identity": 4923,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "大学物理B1"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4923"
+    }
+  },
+  {
+    "n": {
+      "identity": 4924,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "数理统计及概率论A"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4924"
+    }
+  },
+  {
+    "n": {
+      "identity": 4925,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "经济学"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4925"
+    }
+  },
+  {
+    "n": {
+      "identity": 4926,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "大数据与城市规划"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4926"
+    }
+  },
+  {
+    "n": {
+      "identity": 4927,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "投资银行学"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4927"
+    }
+  },
+  {
+    "n": {
+      "identity": 4928,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "山水画技法"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4928"
+    }
+  },
+  {
+    "n": {
+      "identity": 4929,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "C++语言程序设计基础"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4929"
+    }
+  },
+  {
+    "n": {
+      "identity": 4930,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "保持身材的奥秘"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4930"
+    }
+  },
+  {
+    "n": {
+      "identity": 4931,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "动态几何"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4931"
+    }
+  },
+  {
+    "n": {
+      "identity": 4932,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "材料现代研究方法"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4932"
+    }
+  },
+  {
+    "n": {
+      "identity": 4933,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "邮票上的昆虫世界"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4933"
+    }
+  },
+  {
+    "n": {
+      "identity": 4934,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "线性代数"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4934"
+    }
+  },
+  {
+    "n": {
+      "identity": 4935,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "软件工程"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4935"
+    }
+  },
+  {
+    "n": {
+      "identity": 4936,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "工程制图"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4936"
+    }
+  },
+  {
+    "n": {
+      "identity": 4937,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "大学历史与文化"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4937"
+    }
+  },
+  {
+    "n": {
+      "identity": 4938,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "数理统计及概率论"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4938"
+    }
+  },
+  {
+    "n": {
+      "identity": 4939,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "思想道德修养与法律基础"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4939"
+    }
+  },
+  {
+    "n": {
+      "identity": 4940,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "食物与健康"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4940"
+    }
+  },
+  {
+    "n": {
+      "identity": 4941,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "计算机文化基础"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4941"
+    }
+  },
+  {
+    "n": {
+      "identity": 4942,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "理论力学"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4942"
+    }
+  },
+  {
+    "n": {
+      "identity": 4943,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "人工智能"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4943"
+    }
+  },
+  {
+    "n": {
+      "identity": 4944,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "移动应用开发拓展(Andrid)"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4944"
+    }
+  },
+  {
+    "n": {
+      "identity": 4945,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "计算机文化基础1"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4945"
+    }
+  },
+  {
+    "n": {
+      "identity": 4946,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "托福特色课程"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4946"
+    }
+  },
+  {
+    "n": {
+      "identity": 4947,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "大学物理"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4947"
+    }
+  },
+  {
+    "n": {
+      "identity": 4948,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "设计的人因与文化"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4948"
+    }
+  },
+  {
+    "n": {
+      "identity": 4949,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "跨文化影视作品赏析"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4949"
+    }
+  },
+  {
+    "n": {
+      "identity": 4950,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "生活英语进阶"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4950"
+    }
+  },
+  {
+    "n": {
+      "identity": 4951,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "大学生心理健康教育"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4951"
+    }
+  },
+  {
+    "n": {
+      "identity": 4952,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "Python 交互式程序设计导论"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4952"
+    }
+  },
+  {
+    "n": {
+      "identity": 4953,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "风景园林艺术原理"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4953"
+    }
+  },
+  {
+    "n": {
+      "identity": 4954,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "程序设计基础"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4954"
+    }
+  },
+  {
+    "n": {
+      "identity": 4955,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "中华戏曲艺术鉴赏"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4955"
+    }
+  },
+  {
+    "n": {
+      "identity": 4956,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "影视鉴赏"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4956"
+    }
+  },
+  {
+    "n": {
+      "identity": 4957,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "数学模型(特色)"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4957"
+    }
+  },
+  {
+    "n": {
+      "identity": 4958,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "微观经济学原理"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4958"
+    }
+  },
+  {
+    "n": {
+      "identity": 4959,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "不朽的艺术：走进大师与经典"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4959"
+    }
+  },
+  {
+    "n": {
+      "identity": 4960,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "交互设计"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4960"
+    }
+  },
+  {
+    "n": {
+      "identity": 4961,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "民族科学运动与健康运动与健康管理"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4961"
+    }
+  },
+  {
+    "n": {
+      "identity": 4962,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "花卉鉴赏"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4962"
+    }
+  },
+  {
+    "n": {
+      "identity": 4963,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "新媒体编创"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4963"
+    }
+  },
+  {
+    "n": {
+      "identity": 4964,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "高技术与现代局部战争"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4964"
+    }
+  },
+  {
+    "n": {
+      "identity": 4965,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "材料学概论"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4965"
+    }
+  },
+  {
+    "n": {
+      "identity": 4966,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "文化创意产业导论"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4966"
+    }
+  },
+  {
+    "n": {
+      "identity": 4967,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "习近平新时代中国特色社会主义思想：新发展理念"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4967"
+    }
+  },
+  {
+    "n": {
+      "identity": 4968,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "印意雕刻工艺品制作"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4968"
+    }
+  },
+  {
+    "n": {
+      "identity": 4969,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "意在象中——中国古典诗词鉴赏"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4969"
+    }
+  },
+  {
+    "n": {
+      "identity": 4970,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "小白学人工智能"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4970"
+    }
+  },
+  {
+    "n": {
+      "identity": 4971,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "绿色建筑与可持续发展"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4971"
+    }
+  },
+  {
+    "n": {
+      "identity": 4972,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "篮球——基本技术"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4972"
+    }
+  },
+  {
+    "n": {
+      "identity": 4973,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "动力学"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4973"
+    }
+  },
+  {
+    "n": {
+      "identity": 4974,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "网络安全概述"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4974"
+    }
+  },
+  {
+    "n": {
+      "identity": 4975,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "形势与政"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4975"
+    }
+  },
+  {
+    "n": {
+      "identity": 4976,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "建筑材料"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4976"
+    }
+  },
+  {
+    "n": {
+      "identity": 4977,
+      "labels": [
+        "Class"
+      ],
+      "properties": {
+        "name": "C语言程序设计"
+      },
+      "elementId": "4:eab6e598-bbf9-4503-bd3e-8745ecd9867c:4977"
+    }
+  }
+]
