@@ -105,4 +105,8 @@ qq:3224039710
  *You can also view all the developers who contributed to this project in the contributors' list.*
 
 
+### License
+
+[`GNU General Public License v3.0`](LICENSE.md)
+
 
