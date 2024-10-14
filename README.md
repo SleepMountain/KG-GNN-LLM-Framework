@@ -73,7 +73,7 @@ Please read [README.md](https://github.com/SleepMountain/KG-GNN-LLM-Framework/bl
 
 ### Contributors
 
-The developers who have contributed to this project: [ZhouxuanChen](https://github.com/SleepMountain) ; [YufanChen](https://github.com/ChenYFan) ; [ShuaijieJiang](https://github.com/ChenYFan)。
+The developers who have contributed to this project: [ZhouxuanChen](https://github.com/SleepMountain) ; [YufanChen](https://github.com/ChenYFan) ; [ShuaijieJiang](https://github.com/JackComputer553)。
 
 
 

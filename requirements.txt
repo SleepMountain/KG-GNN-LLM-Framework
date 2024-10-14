@@ -1,0 +1,8 @@
+transformers
+langchain
+peft
+torch
+pydantic
+dotenv
+neo4j
+SentenceTransformer
