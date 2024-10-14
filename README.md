@@ -25,45 +25,67 @@
 ###### Installation
 
 ```sh
-git clone https://github.com/SleepMountain/KG-GNN-LLM-Framework.git
+$git clone https://github.com/SleepMountain/KG-GNN-LLM-Framework.git
+$pip install -r requirements.txt
 ```
-
-
 
 ### File Directory Description
 
 ```
-KG 
-├── data
-│  ├── records1.json
-│  ├── records2.json
-│  └── records3.json
-├── neo4j
-│  ├── C-K-P.py
-│  ├── S-C.py
-│  ├── S-C_train.py
-│  ├── add_AKB.py
-│  ├── clear.py
-│  ├── delete_AKB.py
-│  ├── link.py
-│  ├── 学生-选课.csv
-│  ├── 学生-选课2.py
-│  ├── 学生-选课（测试集）.py
-│  ├── 课程-知识点-相关课程.py
-│  └── output
-│  │  ├── neo4j1.dump
-│  │  ├── neo4j2.dump
-│  │  ├── neo4j3.dump
-│  │  ├── neo4j4.dump
-│  │  └── neo4j5.dump
-├── prepare_data
-│  ├── data_spider.py
-│  ├── export4.csv
-│  └── export5.csv
-│  └── max_cut.py
+Repository Root 
+├──KG
+│  ├──neo4j
+│  │  ├──C-K-P.py
+│  │  ├──S-C.py
+│  │  ├──S-C_train.py
+│  │  ├──add_AKB.py
+│  │  ├──clear.py
+│  │  ├──delete_AKB.py
+│  │  └──link.py
+│  └──prepare_data
+│  │  ├──data_spider.py
+│  │  └──max_cut.py
+├──RAG-EtD
+│  ├──1. SimpleSort
+│  │  └──sort.js
+│  ├──2. GNNPruned
+│  │  ├──GNNBuild.py
+│  │  ├──inference.py
+│  │  └──train.py
+│  ├──3. LLMEtD
+│  │  └──llm.py
+│  ├──QwenLLM.py
+│  ├──buildJsonFromCKR.js
+│  └──n4j.py
+├──data
+│  ├──csv
+│  │  ├──Course - Knowledge Points - Related Courses.csv
+│  │  ├──Student - Course Selection (Edited).csv
+│  │  ├──Student - Course Selection (Test Set).csv
+│  │  └──Student - Course Selection.csv
+│  ├──export
+│  │  ├──export4.csv
+│  │  └──export5.csv
+│  ├──json
+│  │  └──CK.json
+│  ├──neo4j
+│  │  ├──neo4j1.dump
+│  │  ├──neo4j2.dump
+│  │  ├──neo4j3.dump
+│  │  ├──neo4j4.dump
+│  │  └──neo4j5.dump
+│  └──records
+│  │  ├──records1.json
+│  │  ├──records2.json
+│  │  └──records3.json
+├──README.md
+├──build_file_dir.js
+├──LICENSE
+├──env_loader.py
+├──package.json
+├──.env.example
+└──requirements.txt
 ```
-
-
 
 ### Architecture of Development 
 
@@ -73,7 +95,7 @@ Please read [README.md](https://github.com/SleepMountain/KG-GNN-LLM-Framework/bl
 
 ### Contributors
 
-The developers who have contributed to this project: [ZhouxuanChen](https://github.com/SleepMountain) ; [YufanChen](https://github.com/ChenYFan) ; [ShuaijieJiang](https://github.com/ChenYFan)。
+The developers who have contributed to this project: [ZhouxuanChen](https://github.com/SleepMountain) ; [YufanChen](https://github.com/ChenYFan) ; [ShuaijieJiang](https://github.com/JackComputer553)。
 
 
 
@@ -104,5 +126,9 @@ qq:3224039710
 
  *You can also view all the developers who contributed to this project in the contributors' list.*
 
+
+### License
+
+[`GNU General Public License v3.0`](LICENSE)
 
 
