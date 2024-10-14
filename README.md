@@ -107,6 +107,6 @@ qq:3224039710
 
 ### License
 
-[`GNU General Public License v3.0`](LICENSE.md)
+[`GNU General Public License v3.0`](LICENSE)
 
 
