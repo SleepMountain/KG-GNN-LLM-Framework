@@ -22,6 +22,5 @@ const CKfilter = (course) => {
     console.log(RelatedCoursesWithPoints);
     return Object.keys(RelatedCoursesWithPoints).sort((a, b) => RelatedCoursesWithPoints[b] - RelatedCoursesWithPoints[a]);
 }
-console.log(CKfilter('Web基础'));
-
-//export default CKfilter;
+//console.log(CKfilter('Web基础'));
+export default CKfilter;
