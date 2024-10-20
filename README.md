@@ -19,7 +19,7 @@
 - Contributors
   - How to Participate
 - Versioning
-
+- License
 ### Guide
 
 ###### Installation
